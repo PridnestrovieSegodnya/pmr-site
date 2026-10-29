@@ -1,0 +1,9 @@
+.env
+.env.*
+*.session
+*.session-journal
+auth.json
+__pycache__/
+node_modules/
+.obsidian/workspace*.json
+.smart-env/
